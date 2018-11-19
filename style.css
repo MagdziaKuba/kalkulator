@@ -1,0 +1,23 @@
+body{
+	margin:10px;
+	padding: 0;
+}
+.calculator{
+border: 2px solid #512E5F;
+width:218px;
+}
+.textview{
+	width: 214px;
+	height: 50px;
+	border: 2px solid #D2B4DE;
+	font-size:28px;
+}
+.button{
+	width: 50px;
+	height: 50px;
+	font-size: 22px;
+	border: 2px solid #512E5F;
+	background-color: #7D3C98;
+	color:#F0F3F4;
+	cursor: pointer;
+}
